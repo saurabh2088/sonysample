@@ -1,0 +1,9 @@
+1. create account on git
+2.create a branch add project android add gitignor and readme.md file (we can do this using cmd but right now i have done from portal directly )
+3.clone repositry in local system using git clone 
+4. create project 
+5.add chnages using git add .
+6. git commmit - "test"
+7. git push origin main
+
+we can use git init also for create branc localy and then commit all things.
