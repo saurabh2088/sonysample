@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="hello_world">Hello World</string>
+    <string name="btn_en" translatable="false">English</string>
+    <string name="btn_ch" translatable="false">Chines</string>
+    <string name="btn_hn" translatable="false">Hindi</string>
+</resources>
